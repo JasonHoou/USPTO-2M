@@ -1,8 +1,6 @@
 # USPTO-2M
 USPTO-2M is a dataset which download from United State Patent Trademark Office. It contains 2 million records which have cleaned and organized into JSON format.It could work as a benchmark dataset for patent classification task.
 
-It contains 10 years USPTO patent data which is cleaned and organized into JSON format.
-
 https://drive.google.com/open?id=0B32dzquSk-RGazRBUzZSa3o1WFE
 
 a sample of our data.
